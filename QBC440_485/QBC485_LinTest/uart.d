@@ -1,0 +1,9 @@
+uart.o: uart.c
+uart.o: config.h
+uart.o: LPC24xx.h
+uart.o: time.h
+uart.o: uart.h
+uart.o: config.h
+uart.o: uart.h
+uart.o: target.h
+uart.o: target.h

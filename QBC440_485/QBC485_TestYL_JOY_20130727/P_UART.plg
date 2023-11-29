@@ -1,0 +1,129 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\zxs_ARMV4\QBC485_TestYL_JOY_20130727\P_UART.uvproj
+Project File Date:  07/27/2013
+
+<h2>Output:</h2>
+Build target 'Test_YLJOY_101284C'
+compiling uart1.c...
+linking...
+Program Size: Code=9232 RO-data=544 RW-data=180 ZI-data=6580  
+"P_UART.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\zxs_ARMV4\\QBC485_TestYL_JOY_20130727\\P_UART.AXF" 
+VTarget = 3.313V
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: RTCK reaction time is approx. 126ns
+Info: Auto JTAG speed: Adaptive
+DLL version V4.11i, compiled Jan 28 2010 19:55:25
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+Hardware-Breakpoints: 2
+Software-Breakpoints: 2048
+Watchpoints:          0
+Found 1 JTAG device, Total IRLen = 4:
+ Id of device #0: 0x4F1F0F0F
+ARM7 identified.
+Using adaptive clocking instead of fixed JTAG speed.
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 300 kHz
+Erase Done.
+Programming Done.
+Verify OK.
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 300 kHz
+Application running ...
+Build target 'Test_YLJOY_101284C'
+compiling uart1.c...
+linking...
+Program Size: Code=9232 RO-data=544 RW-data=180 ZI-data=6580  
+"P_UART.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\zxs_ARMV4\\QBC485_TestYL_JOY_20130727\\P_UART.AXF" 
+VTarget = 3.313V
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: RTCK reaction time is approx. 126ns
+Info: Auto JTAG speed: Adaptive
+DLL version V4.11i, compiled Jan 28 2010 19:55:25
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+Hardware-Breakpoints: 2
+Software-Breakpoints: 2048
+Watchpoints:          0
+Found 1 JTAG device, Total IRLen = 4:
+ Id of device #0: 0x4F1F0F0F
+ARM7 identified.
+Using adaptive clocking instead of fixed JTAG speed.
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 300 kHz
+Erase Done.
+Programming Done.
+Verify OK.
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 300 kHz
+Application running ...
+Build target 'Test_YLJOY_101284C'
+compiling uart1.c...
+linking...
+Program Size: Code=9232 RO-data=544 RW-data=180 ZI-data=6580  
+"P_UART.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\zxs_ARMV4\\QBC485_TestYL_JOY_20130727\\P_UART.AXF" 
+VTarget = 3.313V
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: RTCK reaction time is approx. 126ns
+Info: Auto JTAG speed: Adaptive
+DLL version V4.11i, compiled Jan 28 2010 19:55:25
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+Hardware-Breakpoints: 2
+Software-Breakpoints: 2048
+Watchpoints:          0
+Found 1 JTAG device, Total IRLen = 4:
+ Id of device #0: 0x4F1F0F0F
+ARM7 identified.
+Using adaptive clocking instead of fixed JTAG speed.
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 300 kHz
+Erase Done.
+Programming Done.
+Verify OK.
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 300 kHz
+Application running ...
+Build target 'Test_YLJOY_101284C'
+compiling uart1.c...
+linking...
+Program Size: Code=9232 RO-data=544 RW-data=180 ZI-data=6580  
+"P_UART.axf" - 0 Error(s), 0 Warning(s).
+Load "F:\\zxs_ARMV4\\QBC485_TestYL_JOY_20130727\\P_UART.AXF" 
+VTarget = 3.313V
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: RTCK reaction time is approx. 126ns
+Info: Auto JTAG speed: Adaptive
+DLL version V4.11i, compiled Jan 28 2010 19:55:25
+Firmware: J-Link ARM V8 compiled Dec  1 2009 11:42:48
+Hardware: V8.00
+Hardware-Breakpoints: 2
+Software-Breakpoints: 2048
+Watchpoints:          0
+Found 1 JTAG device, Total IRLen = 4:
+ Id of device #0: 0x4F1F0F0F
+ARM7 identified.
+Using adaptive clocking instead of fixed JTAG speed.
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 300 kHz
+Erase Done.
+Programming Done.
+Verify OK.
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 300 kHz
+Application running ...

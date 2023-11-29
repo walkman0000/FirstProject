@@ -1,0 +1,4 @@
+--cpu ARM7TDMI "lpc2400.o" "main.o" "time.o" "uart0.o" "uart1.o" "uart2.o" "uart3.o" "iocontrol.o" "keydatatosend.o" --strict --scatter "P_UART.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\P_UART.map" -o "P_UART.axf"

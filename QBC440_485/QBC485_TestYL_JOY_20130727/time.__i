@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o "time.o" --omf_browse "time.crf" --depend "time.d" "time.c"

@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -g -W -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o "uart1.o" --omf_browse "uart1.crf" --depend "uart1.d" "uart1.c"

@@ -1,0 +1,27 @@
+*** Creating Trace Output File 'P_UART.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"lpc2400.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"time.o"'
+### List of Objects: adding '"uart0.o"'
+### List of Objects: adding '"uart1.o"'
+### List of Objects: adding '"uart2.o"'
+### List of Objects: adding '"uart3.o"'
+### List of Objects: adding '"iocontrol.o"'
+### List of Objects: adding '"keydatatosend.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "lpc2400.o" "main.o" "time.o" "uart0.o" "uart1.o" "uart2.o" "uart3.o" "iocontrol.o" "keydatatosend.o" --strict --scatter "P_UART.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\P_UART.map" -o "P_UART.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'P_UART.axf'
+### ADS-LD Command File: 'P_UART.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'P_UART.lnp', Handle=0x000003B8
+### Writing '.lnp' file
+### ADS-LD Command file 'P_UART.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
